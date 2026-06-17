@@ -13,20 +13,7 @@
 I am a passionate **Computer Science** student specializing in **Artificial Intelligence**, **Computer Vision (CV)**, and **Natural Language Processing (NLP)**. I have a strong foundation in algorithm design, data analysis, and software engineering. I love taking on innovative challenges, from rescuing people at sea using UAV drone images to designing trade sentiment classifiers and matching resumes to jobs.
 
 I believe that **eager learning**, **discipline**, and **creative problem-solving** are the keys to building meaningful technology.
-
----
-
-## 🎓 Education & Achievements
-
-- **Major**: Computer Science (Khoa học máy tính) | **GPA**: 3.4 / 4.0
-- **Awards & Competitions**:
-  - 🏆 **Second Prize** - University Scientific Research 2025 (Nghiên cứu khoa học cấp trường 2025)
-  - 🏅 **Certificate of Recognition** - Eureka National Scientific Research 2025 (Nghiên cứu khoa học Eureka 2025)
-  - 💻 **Participant** - National Olympiad in Informatics 2024 (Olympic tin học quốc gia 2024)
-  - 🥉 **Third Prize** - University Olympiad in Informatics 2024 (Olympic tin học cấp trường 2024)
-
----
-
+ 
 ## 🛠️ Tech Stack & Skills
 
 <table>
@@ -101,10 +88,9 @@ I believe that **eager learning**, **discipline**, and **creative problem-solvin
 
 ## 📫 Connect with Me
 
-- 📧 Email: [hoangcattuongg@gmail.com](mailto:hoangcattuongg@gmail.com)
+- 📧 Email: [hoanghoangcattuong@gmail.com](mailto:hoangcattuongg@gmail.com)
 - 📞 Phone: (+84) 037-234-8814
 - 📍 Location: Ha Dong, Hanoi, Vietnam
-- 🔗 LinkedIn: [linkedin.com/in/hoang-cat-tuong-placeholder](https://github.com/tuong1901) *(Update with your LinkedIn link)*
 
 ---
 
